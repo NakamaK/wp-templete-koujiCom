@@ -1,0 +1,36 @@
+2015-03-13	28
+2015-03-21	4
+2015-03-30	3
+2015-03	36
+2015-03-31	1
+2015-04-01	1
+2015-04-07	2
+2015-04-14	1
+2015-04-15	1
+2015-04-16	2
+2015-04-20	3
+2015-04-21	1
+2015-04-22	6
+Logger_started	1426174004
+Logger_total	60
+Chrome	36
+Firefox	15
+IE6	0
+IE7	0
+IE8	0
+IE9	0
+IE10	1
+IE11	0
+Safari	8
+Unknown Browser	0
+iPad	0
+iPhone	1
+Android	0
+Windows Phone	0
+Windows	13
+OS X	46
+Linux	0
+Unknown OS	0
+2015	60
+2015-04	24
+2015-04-23	7
